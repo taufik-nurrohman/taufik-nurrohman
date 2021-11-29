@@ -1,4 +1,4 @@
-![343440](https://user-images.githubusercontent.com/1669261/87329089-a260b300-c560-11ea-9131-4c09fc3a3202.jpg)
+![343440](https://user-images.githubusercontent.com/1669261/143798603-530cd9f9-3450-45f2-9820-bdf9eb804e99.jpg)
 
 [**HOME**](https://github.com/taufik-nurrohman)&nbsp;&nbsp;&nbsp;&nbsp;[**JOURNAL**](https://taufik-nurrohman.com)&nbsp;&nbsp;&nbsp;&nbsp;[**PROJECTS**](https://taufik-nurrohman.js.org)
 
