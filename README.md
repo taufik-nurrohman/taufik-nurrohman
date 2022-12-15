@@ -5,13 +5,13 @@
 I’m obsessed with autumn, but my geographical location does not allow me to experience it.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?border_radius=0&count_private=true&hide_border=true&hide_title=true&show_icons=true&theme=dark&username=taufik-nurrohman">
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?border_radius=0&count_private=true&hide_border=true&hide_title=true&show_icons=true&theme=default&username=taufik-nurrohman">
-  <img alt="Statistic 1" src="https://github-readme-stats.vercel.app/api?border_radius=0&count_private=true&hide_border=true&hide_title=true&show_icons=true&theme=default&username=taufik-nurrohman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?border_radius=0&amp;count_private=true&amp;hide_border=true&amp;hide_rank=true&amp;show_icons=true&amp;theme=dark&amp;username=taufik-nurrohman">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?border_radius=0&amp;count_private=true&amp;hide_border=true&amp;hide_rank=true&amp;show_icons=true&amp;theme=default&amp;username=taufik-nurrohman">
+  <img alt="Statistic 1" src="https://github-readme-stats.vercel.app/api?border_radius=0&amp;count_private=true&amp;hide_border=true&amp;hide_rank=true&amp;show_icons=true&amp;theme=default&amp;username=taufik-nurrohman">
 </picture> <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?border_radius=0&hide_border=true&hide_title=true&layout=compact&theme=dark&username=taufik-nurrohman">
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs?border_radius=0&hide_border=true&hide_title=true&layout=compact&theme=default&username=taufik-nurrohman">
-  <img alt="Statistic 2" src="https://github-readme-stats.vercel.app/api/top-langs?border_radius=0&hide_border=true&hide_title=true&layout=compact&theme=default&username=taufik-nurrohman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?border_radius=0&amp;hide_border=true&amp;layout=compact&amp;theme=dark&amp;username=taufik-nurrohman">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs?border_radius=0&amp;hide_border=true&amp;layout=compact&amp;theme=default&amp;username=taufik-nurrohman">
+  <img alt="Statistic 2" src="https://github-readme-stats.vercel.app/api/top-langs?border_radius=0&amp;hide_border=true&amp;layout=compact&amp;theme=default&amp;username=taufik-nurrohman">
 </picture>
 
 Desk
