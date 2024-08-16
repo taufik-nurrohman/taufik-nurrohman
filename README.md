@@ -23,6 +23,12 @@ My communication preference is via text message. You can request my screen video
   <img alt="Statistic 2" src="https://github-readme-stats.vercel.app/api/top-langs?border_radius=0&amp;hide_border=true&amp;layout=compact&amp;theme=default&amp;username=taufik-nurrohman">
 </picture>
 
+> [!NOTE]
+>
+> I am no longer available to work as a freelancer on Upwork until further notice. My mother passed away on the night of July 6, 2024 at 11:50 PM. I choose to spend my time taking care of my father until it is his turn to go. After that, I may consider to open up again. This year is also the year in which I should put more effort into ending my single status.
+>
+> [Bounty](https://github.com/mecha-cms/bounty) projects related to my content management system are all still acceptable, but with no guarantee that they will be completed within a certain time frame. Bug fixes and feature requests are also still acceptable.
+
 Desk
 ----
 
